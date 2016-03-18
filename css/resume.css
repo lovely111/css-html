@@ -1,0 +1,30 @@
+
+
+html {
+    background: url("../image/snow6.png");
+}
+
+h1 {
+    font-size:50px;
+    color:#fff;
+}
+a:link {
+    font-weight: bold;
+    text-decoration: none;
+    color: #6495ed;
+}
+a:visited {
+    font-weight: bold;
+    text-decoration: none;
+    color:#6495ed;
+}
+a:hover, a:focus, a:active {
+    text-decoration: underline;
+    color: blueviolet;;
+}
+td {
+    font-size: larger;
+}
+head {
+    background: aliceblue
+}
